@@ -1,4 +1,4 @@
-Here’s a professional, clear, and engaging `README.md` tailored for your **Predictive Maintenance Model** GitHub repository:
+ **Predictive Maintenance Model** github repository:
 
 ---
 
